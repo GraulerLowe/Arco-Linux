@@ -1,6 +1,0 @@
-2024/10/06-12:33:14.910 4a1 Creating DB /home/grauler/.config/chromium/Profile 1/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
-2024/10/06-12:33:15.049 4a1 Reusing MANIFEST /home/grauler/.config/chromium/Profile 1/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/06-12:33:19.221 495 Level-0 table #5: started
-2024/10/06-12:33:19.255 495 Level-0 table #5: 7284 bytes OK
-2024/10/06-12:33:19.289 495 Delete type=0 #3
-2024/10/06-12:33:19.289 495 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

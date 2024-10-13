@@ -1,6 +1,0 @@
-2024/09/30-18:48:11.651 ad9 Creating DB /home/grauler/.config/chromium/Profile 1/WebStorage/28/IndexedDB/indexeddb.leveldb since it was missing.
-2024/09/30-18:48:11.727 ad9 Reusing MANIFEST /home/grauler/.config/chromium/Profile 1/WebStorage/28/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/09/30-18:48:15.853 ada Level-0 table #5: started
-2024/09/30-18:48:15.876 ada Level-0 table #5: 1162 bytes OK
-2024/09/30-18:48:15.911 ada Delete type=0 #3
-2024/09/30-18:48:15.914 ada Manual compaction at level-0 from (begin) .. (end); will stop at (end)

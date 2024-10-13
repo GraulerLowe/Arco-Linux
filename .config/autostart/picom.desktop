@@ -1,5 +1,0 @@
-[Desktop Entry]
-Exec=picom -b --config ~/.config/lxqt/picom.conf
-Name=picom
-Type=Application
-Version=1.0
