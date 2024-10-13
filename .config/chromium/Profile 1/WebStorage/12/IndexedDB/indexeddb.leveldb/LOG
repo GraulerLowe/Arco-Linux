@@ -1,0 +1,34 @@
+2024/09/22-11:31:44.929 2824 Creating DB /home/grauler/.config/chromium/Profile 1/WebStorage/12/IndexedDB/indexeddb.leveldb since it was missing.
+2024/09/22-11:31:44.996 2824 Reusing MANIFEST /home/grauler/.config/chromium/Profile 1/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/22-11:31:51.373 2825 Level-0 table #5: started
+2024/09/22-11:31:51.420 2825 Level-0 table #5: 14842 bytes OK
+2024/09/22-11:31:51.453 2826 Current memtable full; waiting...
+2024/09/22-11:31:51.487 2825 Delete type=0 #3
+2024/09/22-11:31:51.488 2816 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/22-11:31:51.489 2816 Level-0 table #7: started
+2024/09/22-11:31:51.510 2816 Level-0 table #7: 527 bytes OK
+2024/09/22-11:31:51.568 2816 Delete type=0 #4
+2024/09/22-11:31:51.569 2816 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/22-11:31:51.736 2825 Level-0 table #9: started
+2024/09/22-11:31:51.758 2825 Level-0 table #9: 2127 bytes OK
+2024/09/22-11:31:51.780 2816 Current memtable full; waiting...
+2024/09/22-11:31:51.815 2825 Delete type=0 #6
+2024/09/22-11:31:51.816 2817 Level-0 table #11: started
+2024/09/22-11:31:51.839 2817 Level-0 table #11: 683 bytes OK
+2024/09/22-11:31:51.875 2817 Delete type=0 #8
+2024/09/22-11:31:51.877 2817 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 464 : 0
+2024/09/22-11:31:51.877 2817 Compacting 2@0 + 1@1 files
+2024/09/22-11:31:51.925 2817 Generated table #12@0: 92 keys, 1375 bytes
+2024/09/22-11:31:51.925 2817 Compacted 2@0 + 1@1 files => 1375 bytes
+2024/09/22-11:31:52.035 2817 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/22-11:31:52.037 2817 Delete type=2 #11
+2024/09/22-11:31:52.037 2817 Delete type=2 #9
+2024/09/22-11:31:52.042 2817 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/22-11:31:52.042 2817 Manual compaction at level-0 from '\x00\x03\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 464 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/22-11:31:52.043 2817 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 374 : 1
+2024/09/22-11:31:52.043 2817 Compacting 1@1 + 1@2 files
+2024/09/22-11:31:52.234 2817 Generated table #13@1: 42 keys, 1106 bytes
+2024/09/22-11:31:52.235 2817 Compacted 1@1 + 1@2 files => 1106 bytes
+2024/09/22-11:31:52.279 2817 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/22-11:31:52.279 2817 Delete type=2 #12
+2024/09/22-11:31:52.279 2817 Manual compaction at level-1 from '\x00\x06\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 374 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

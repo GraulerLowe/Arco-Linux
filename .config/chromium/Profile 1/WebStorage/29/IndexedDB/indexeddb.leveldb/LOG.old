@@ -1,0 +1,25 @@
+2024/10/06-00:25:44.772 645b Reusing MANIFEST /home/grauler/.config/chromium/Profile 1/WebStorage/29/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/06-00:25:44.773 645b Recovering log #41
+2024/10/06-00:25:44.797 645b Reusing old log /home/grauler/.config/chromium/Profile 1/WebStorage/29/IndexedDB/indexeddb.leveldb/000041.log 
+2024/10/06-00:25:44.798 645b Delete type=2 #40
+2024/10/06-00:25:45.713 645b Level-0 table #46: started
+2024/10/06-00:25:45.756 645b Level-0 table #46: 8025 bytes OK
+2024/10/06-00:25:45.790 645b Delete type=0 #41
+2024/10/06-00:25:45.790 645a Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`y\xc9f%yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 2289 : 1
+2024/10/06-00:25:45.790 645a Compacting 1@0 + 1@1 files
+2024/10/06-00:25:45.947 645a Generated table #47@0: 437 keys, 5012 bytes
+2024/10/06-00:25:45.948 645a Compacted 1@0 + 1@1 files => 5012 bytes
+2024/10/06-00:25:45.983 645a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/06-00:25:45.985 645a Delete type=2 #46
+2024/10/06-00:25:45.987 645a Manual compaction at level-0 from '\x00\x0f\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`y\xc9f%yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 2289 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/06-00:25:54.321 6466 Level-0 table #49: started
+2024/10/06-00:25:54.343 6466 Level-0 table #49: 8401 bytes OK
+2024/10/06-00:25:54.400 6466 Delete type=2 #43
+2024/10/06-00:25:54.400 6466 Delete type=0 #45
+2024/10/06-00:25:54.401 645b Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 2473 : 1
+2024/10/06-00:25:54.401 645b Compacting 1@0 + 1@1 files
+2024/10/06-00:25:54.422 645b Generated table #50@0: 445 keys, 4972 bytes
+2024/10/06-00:25:54.422 645b Compacted 1@0 + 1@1 files => 4972 bytes
+2024/10/06-00:25:54.456 645b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/06-00:25:54.456 645b Delete type=2 #49
+2024/10/06-00:25:54.457 645a Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 2473 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

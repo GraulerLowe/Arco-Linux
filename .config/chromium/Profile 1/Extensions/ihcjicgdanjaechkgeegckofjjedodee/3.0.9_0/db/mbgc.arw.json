@@ -1,0 +1,47 @@
+[
+    {
+        "id": 37253895258,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "requestHeaders": [
+                {
+                    "header": "Attribution-Reporting-Eligible",
+                    "operator": "exists"
+                }
+            ]
+        }
+    },
+    {
+        "id": 372538956252,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "requestHeaders": [
+                {
+                    "header": "Referer",
+                    "operator": "exists"
+                }
+            ]
+        }
+    },
+    {
+        "id": 372518936252,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "requestHeaders": [
+                {
+                    "header": "attribution-reporting-support",
+                    "operator": "exists"
+                }
+            ]
+        }
+    }
+]

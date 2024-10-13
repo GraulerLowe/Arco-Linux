@@ -1,0 +1,11162 @@
+[
+	{
+		"id": 5,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||111fc94.wcomhost.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 53,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||1x24coin.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 93,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||49muralidhar.asaagrotech.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 149,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||518kk.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 186,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||577565currentlyattyahoo.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 248,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||98423734-437834-342.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 306,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||abdbs.icu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 343,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||abhinavd18.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 391,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||account-8de.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 440,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||adsbudgetgrowth.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 487,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||aiqicar.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 526,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||air-clone-lac.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 578,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||amzn.openinapp.link",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 625,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||analytic.hkfaulm.cn",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 672,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||app-28e01506-6915-41c3-953b-ddfa23d1b754.cleverapps.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 754,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||arv.vgj.mybluehost.me",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 803,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||atharvamhatre149.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 857,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-100873.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 910,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-103234.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 963,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-104384.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1016,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-104875.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1069,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-105173.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1122,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-106192.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1175,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-106767-103705.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1235,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-107386-104116.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1295,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-109626.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1348,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-109765.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1401,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-inc-101921.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1458,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-service-100787.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1519,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-service-105301.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1580,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||att-sign-in-104685.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1641,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||attcom-106808.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1697,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||attmail-100815.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1754,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||attt-107602.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1808,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||atwebstorenew.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1864,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||authentification.coinbase.costumer-alert.3-95-180-254.cprapid.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 1957,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||authorkryan.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2000,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ava.game.naver.com.vip.aizenteach.my.id",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2067,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||b27769.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2105,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bafybeice2qdzb6non2adyhpxf75gvyuzgz4x4q2cekpgesrrtv734qys2a.ipfs.dweb.link",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2207,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bafybeihdcnkzgzndfocttn3hkm3xqylirivlzftzscrvhmbjto2hzxcede.ipfs.dweb.link",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2309,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bb33386.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2348,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bdvenlinea-creditos.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2405,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bellsouth-102776.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2464,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||beneffffbbv.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2507,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bhbnkfvh-f1c400.ingress-daribow.ewp.live",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2575,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||biance-ptr.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2617,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bigpond123409.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2669,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||binace-por.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2711,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bitcoindogsclub-65w.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2768,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||br6.org",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2803,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bridge.pancake.run",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2849,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||brifing.kz",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2887,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||bt-108441.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2939,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||btinternet-101011.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 2999,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||btinternet-104722.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3059,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||business-suite-guidelines-email-review.d17pisbiqd218f.amplifyapp.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3155,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||business-suite-guidelines-email-review.d39h67e8eeox9w.amplifyapp.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3251,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||business.appeal-helppage-conversion.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3318,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cb40ca27-aac2-463c-9a1c-71a06ac11def-00-143u76e8w6vh6.janeway.replit.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3418,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cdn.dragon.cere.network",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3469,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cfkyb0.webwave.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3515,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||channelhub.info/427751c77u13c34559lb968a79cl0fb19550.html__;!!oepyz6q!9gasmqhdqxjcfmaata3p-roxr_uklyuarzt6mzassbp93mrgdqtcm-ddgrfdefnkb2wx7vugwo6ct_gdiur046cvng_/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3706,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ckrainkenlogen.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3759,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||claim-saido-dana-kaget.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3819,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cmn.ffu050135p.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3865,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cmn.hon073259f.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3911,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cmny.enjo-matome.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3959,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cobs02.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 3997,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||coin-payments.org",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4042,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||coinpayments-c9c.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4096,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||connebsepr0login.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4151,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||correo.rocajunyent.com.es",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4204,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||customer-service.myfast0.me",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4259,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cx31206.tw1.ru",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4301,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||d18n2wj6n5oiiu.cloudfront.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4358,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||d1upqxcgz3jdho.cloudfront.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4415,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||d24o22pg0755v1.cloudfront.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4472,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||d2kfbp9ar25pk2.cloudfront.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4529,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||d2xkxwihuj5t93.cloudfront.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4586,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||d304.cc",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4621,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dana-baq.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4667,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||deep6201.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4713,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dem.koalified.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4758,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||detayli1svur12.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4804,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dev-32494993409921iioo.pantheonsite.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4870,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dev-38425478852.pantheonsite.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4929,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dev-4359345945io32i53o9.pantheonsite.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 4996,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dev-565llll4646035035035294.pantheonsite.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5067,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dev-gbfhy77.pantheonsite.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5122,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dex.sanuscoin.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5167,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dhlcustoms.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5209,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||did.li/hx2lc",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5249,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||doiwamslekdfnfjda.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5305,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dpusphmtffh2d.cloudfront.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5361,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||dtn.dbv.temporary.site",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5411,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ea9eab10-ce82-494b-8554-6c8b58037325-00-1gigwa3dgtjq8.kirk.replit.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5508,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||eadcorretorainvesting.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5561,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||eb177.cc",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5597,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||electricgenerator.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5653,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||epcl.buzz",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5690,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||erasureget.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5739,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||esport-gaming.midaspowers.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5796,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||extera.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5840,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||facebookssecuritycenter.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5895,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||facehook.freewebhostmost.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 5951,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||falling-smoke-51c4.michelleemrick.workers.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6024,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||free-5512703.webadorsite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6080,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||free-badge-service.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6137,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||frt.ctz336670d.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6183,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||frt.ffu050135p.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6229,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||frt.rpe312579r.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6275,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||fushop.org",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6313,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||g-mxplug.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6359,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||games4phone.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6402,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||garena-freefire-event.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6461,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||garena.payingame.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6509,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||geeminiiiloggin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6563,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||gemini05logins.godaddysites.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6622,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||geminialogiow.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6674,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||geminiloginnee.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6727,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||get-badge-service-opportunity.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6795,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||get-free-badge-opportunity.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6860,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||global-mall.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6903,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||green-zoo9874-darkizitri45647.codeanyapp.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 6975,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||guidance-feedback-ten.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7035,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||h6geed.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7073,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||harsh-goel.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7121,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hbyczyz.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7160,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hdfcsky.com/sky/login/verifydigio/m3mail@b.c?status=cancel&digio_doc_id=kid240926184835886z1ktgfl2tbemff&message=kyc%20process%20cancelled",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7327,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hdg733738.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7375,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||helpdeskrecovecaseidbusiness212.d3pqae5288104p.amplifyapp.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7464,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||helpdeskrecovercaseid.dob6pyid5wxnh.amplifyapp.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7542,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hgw.ctz336670d.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7588,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hgw.hon073259f.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7634,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hgw.rpe312579r.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7680,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||home-104272.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7734,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||home-105680.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7788,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||home-106877.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7842,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||home-107866.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7896,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||home-108732.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 7950,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||home-108819.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8004,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hometerms2333.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8060,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hoor23.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8104,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hqc-fabd1e.ingress-alpha.ewp.live",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8165,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||hqd-fabd1e.ingress-alpha.ewp.live",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8226,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||id.ion0o0s.es.zanuum.com.br",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8281,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||id1.ion0o0s.es-ac.tualizaciones.eu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8343,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||iis.hgp.mybluehost.me",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8392,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||imdtokven.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8433,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||imt0ken-op.mom",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8475,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||imt0ken-ow.mom",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8517,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||imtoken.cz",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8555,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||innovestx.icu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8596,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||innovestx.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8637,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||innovestx.xyz",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8678,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||instragraim.42web.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8726,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||internet-banking-dbs.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8778,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ipfs.io/ipfs/bafkreicgttg3ny25lrq27m3yu27z46e4lvqr77bskyhhwa6ljzske5k3ba",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8878,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ipfs.io/ipfs/bafkreid7eaaydf43ufdwekdepnf7t3spicn67cqtw4iu44fmtjyu7hnx6a",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 8978,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ipfs.io/ipfs/bafkreierivwxuusb3sfvgw56hhan4dpbht5sm7icsfehggy4piabwtwxny",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9078,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ipfs.io/ipfs/bafkreiftrgi2ojogq5anyfr635stl4qjh53gxf2rt2dbzcfut3uqgpmnte",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9178,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ipfs.io/ipfs/bafybeibyfge2obzudl4wevwn3kouhvmucy6lbatceflbpi353dl67xd27e",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9278,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ipfs.io/ipfs/bafybeientd6edme65bocxdxbc57yucx73k7kzflimwtypt6y3wvv6awq5m/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9379,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||jimills2855.wixsite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9430,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||jineshgandhi59.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9482,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||jjr.dbv.temporary.site",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9532,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||jkwwpacj.elementor.cloud",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9584,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||jornaprof.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9631,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||juno-104290.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9685,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||juno-104947.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9739,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||juno-105405.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9793,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||juno-106686.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9847,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||juno-webmail-107284.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9909,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||kamensdiwuedsjdhs.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 9965,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||kcrekanlogien.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10017,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||kelverly.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10063,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||keuicuoeinlueioginx.godaddysites.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10127,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||kraikenzlogimus.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10181,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ksdrbnsau.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10229,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||kwii.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10265,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||kyastxmcde.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10313,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||kyc-upd-wall.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10357,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||la-ks.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10401,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||lapetiteponderosa.wixsite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10458,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||laviocuisine1.wixsite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10511,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||lbl.ctz336670d.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10557,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||lbl.ffu050135p.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10603,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||lbl.hon073259f.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10649,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||lbl.rpe312579r.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10695,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||login-screen-106360.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10757,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||loginpageadv-ux101ic.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10816,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||m.mkvitunes.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10859,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||m9sqgl.lat",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10897,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mail-107266.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10951,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mail.eyetwscf.site",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 10997,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mail.jjr.dbv.temporary.site",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11052,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mall-emo.icu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11092,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||maltimasklogin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11145,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||manikandan2824.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11197,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||maocatcoin.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11245,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||matansakk-loggin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11300,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mazulyta.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11346,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mdkaifraza42661.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11399,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mdq.ctz336670d.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11445,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mdq.ffu050135p.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11491,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mdq.rpe312579r.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11537,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||meataa.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11582,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||membership.garenaa.id.vn",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11634,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mesagerieorangeweb.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11691,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||meta.activity-overview-center.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11752,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||meta.helpcaseappeal.eu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11802,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metamadklologin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11856,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metamjiask-slogin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11912,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metamskus-uiwallt.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 11968,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metasmaskklogin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12022,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metasupport-help-123.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12081,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metaxask-slogin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12135,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metiamaskzlogia.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12189,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metiimskuslogin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12243,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||metvamask-wvallnet.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12300,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mewtamask-wallet.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12355,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||mntmasklogioon.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12408,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||msygsc.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12446,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||nabcyberau.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12488,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||navigatedapps.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12539,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||netflix-clone-omega-orpin.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12603,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||networkarrange.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12656,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||nf11.help",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12693,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||nikhilasujith.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12744,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||notifyhubss.net/44ace9eebu782f473flac59f2afl464e065d.html__;!!oepyz6q!6fkwxrbv0gjaaz7-iqk6ivkgryqoibj2xs0shy82vnzi8lpjfr5a5nvbkhfhwtrl7p7fjkmopsvydsgfoeditvjdppjz0q$/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12939,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||official-trezor-info.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 12997,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||olx-pl.fiwklins.shop",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13045,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||one-night-sex-service.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13104,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||onlineemo.bond",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13146,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||onlineemool.icu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13189,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||onlinefirsatlarburda.online",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13244,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||onlinemailboxautoupdate-105514.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13317,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||onlychatsexss.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13368,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||onnnlinevrifcation.netlify.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13426,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||opefileservceweauthen.is-leet.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13487,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||orgmetamslogin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13540,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||oxv.ctz336670d.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13586,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||oxv.ffu050135p.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13632,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||oxv.hon073259f.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13678,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||oxv.rpe312579r.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13724,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||oxy.alttagsolutions.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13775,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||p2bpko.lat",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13813,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pagesubmit.somee.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13861,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||paypalloginin-usa.blogspot.co.ke",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13921,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||paypaypaynejpubw82.replit.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 13978,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||paysafecard.kesug.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14027,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pdlvtc.co.uk",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14067,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||peancakeswap.godaddysites.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14124,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pedfgs.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14162,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||poojapalaparthi.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14215,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ppeypalloginn-my-account.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14278,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pramod-pahal.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14328,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||promptdeskcoreswap.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14378,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-0c9575bea2c74c7ca18bb6d551795938.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14449,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-12108ed09355417cbfd51f0d8eefcfa5.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14520,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-1f645d2283ff4677a8a214dd65f2e973.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14591,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-2b8283ead0624d4c98c14477e61f039e.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14662,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-4097f13890fb4b5ab18b50823090f25e.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14733,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-479e7e0e27fd456eae02e16da758fee5.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14804,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-48cb51754474467eb8ada376108141d7.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14875,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-4a42d3c4a7434d8bac2b34e53d9e5c8e.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 14946,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-50f6be4f4c494888b25f632fad312d3b.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15017,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-5358c7826c0d4c9fbea2168a138599e1.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15088,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-693dd56f7d854405a7336f581b7ec8f9.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15159,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-8f27e902dfc641a18f7f690f82dffb36.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15230,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-9c0e124bfdae48649cf3f048dae74580.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15301,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-9c94a6854b0d400691cd5f7684d183c6.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15372,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-a7cc7de25e6c4500a418e9eba584c834.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15443,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-b363eebd12344c2987bfc6e1c604a13d.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15514,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-d8e1a574ae8d44fdb23489231918af49.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15585,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||pub-fbb8b9a22b2647a18d1781befb1e70f2.r2.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15656,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||qae.fmt577123j.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15702,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||qae.mqz090325b.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15748,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||quarekensogi.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15799,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||raiffeisen-zkouska.info",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15850,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rarieble.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15890,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rb.gy/7uojd4/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15931,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rb.gy/990b9d/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 15972,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rb.gy/dpxmdr/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16013,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rb.gy/m8kysd/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16054,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rb.gy/q7ssb1/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16095,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rb.gy/thcqx2/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16136,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rebrand.ly/e3vmw1n",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16182,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||reinstatementrestraint.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16243,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||restraintprofile.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16298,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||reventaslatam.online",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16346,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rotv24.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16384,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rovgarena.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16425,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||royal-glade-286f.kdsj.workers.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16486,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rwy.bki096620r.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16532,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rwy.fmt577123j.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16578,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||rwy.mqz090325b.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16624,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sbcglobamail.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16675,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||scarce-courageous-constellation.glitch.me",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16744,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||seamlesstapnod.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 16796,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||secure.sign-doc.com/xufiym29rejn1afbcvkrjmjbirzjjzytcwfdvr2luv1jnuzi0q1vpvxbfwvyzsmnlukloowdvcmy0bwirc1byumeyz2dkvutewvfndzj6tvreq1hlqujrdk91vwc2dte4ogt2zhf0lznvwmnen0prckpqc0i2rwrzrmdxdvowmdzreur1qljortlfmm9uwlgwvw1ym1iwejyxd3hkrfbhajyvuehqduxhykharu1jwjd6wmrnbu43nzvjwfd6c3zmenrzqtdlvhntskrlbwrozxhqqt0tlxhkn1zyc1hun3dwcwcybu4tltuwt0zlejlldfbmzzzxveexzctwync9pq==/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17191,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||seller.shop-line.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17239,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sen16888sensen888.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17288,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||server.n6b8.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17331,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||service-106691.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17388,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||servicertytr.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17439,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sg-massage-sharing.from34.web.id",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17499,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sg1.taoomatoa.workers.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17552,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sg2.taoomatoa.workers.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17605,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shafeem.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17650,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sharanchauhan.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17701,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-103098.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17755,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-103902.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17809,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-104374.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17863,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-104694.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17917,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-105033.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 17971,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-105224.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18025,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-105865.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18079,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-106277.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18133,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-106358.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18187,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||shaw-107467.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18241,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sign-in-att-100012.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18302,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sign-in-att-103747.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18363,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sihub.in/managesi/hdfcbank/",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18418,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||simxtrackredirectjoyboy01.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18481,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sites.google.com/view/besloor/home",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18543,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sjf.ffu050135p.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18589,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sjf.hon073259f.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18635,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||skwiieddjdksdjdjsdf.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18693,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||smart-comfortable-trumpet-kljhgfd.glitch.me",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18764,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||snapsexfreeonly.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18817,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||soalsmwmendjfjfdkfr.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18875,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sorteoeminentgalicias.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18928,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sost1213.duckdns.org",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 18976,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||spaceprotol.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19025,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sparkasse-dortmund.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19075,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sparkasse-dortmund.de/de/home.html",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19137,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||spesiiall-prromo-perrtamiina-neww.jowm.online",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19210,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||spotify-clone-six-gray-20.vercel.app",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19274,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||spotifyio.freewebhostmost.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19331,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||srv.mailazy.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19374,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||steam.workshopmodels.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19426,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||steamcomminnity.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19473,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||steamcommynutiy.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19520,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||steamcomutity.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19565,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||studiosvasilia.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19611,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sukienffvip.doiqua-garena.io.vn",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19670,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||sunil7897890.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19720,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tan603725.studio.site",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19769,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tangas.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19813,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tc.heyuanshi.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19857,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||teleg.eu/s/q_faktor_germany",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19912,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telegiramv.fit",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19954,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telegooe-ztxn.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 19999,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telegrem.st59u3.shop",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20047,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telegroeum.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20089,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telegrvami.icu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20131,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-100416.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20188,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101055.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20245,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101091.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20302,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101131.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20359,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101217.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20416,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101261.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20473,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101311.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20530,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101318.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20587,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101688.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20644,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-101819.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20701,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-102556.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20758,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-102594.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20815,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-102841.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20872,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-102998.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20929,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-103141.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 20986,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-103198.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21043,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-103234.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21100,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-103248.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21157,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-103688.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21214,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-104094.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21271,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-104158.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21328,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-104386.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21385,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-105212.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21442,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-105270.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21499,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-105309.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21556,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-106113.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21613,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-106415.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21670,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-106431.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21727,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-106561.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21784,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-107033.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21841,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-107139.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21898,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-107474.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 21955,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-107788.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22012,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-107823.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22069,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108365.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22126,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108370.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22183,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108407.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22240,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108485.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22297,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108739.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22354,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108912.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22411,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108934.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22468,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-108963.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22525,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-109074.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22582,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-109219.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22639,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-109487.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22696,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||telstra-109761.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22753,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||test.echo10th.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22798,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||th.tiktok-app.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22843,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||thailand.tiktok-app.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22894,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||thanhnien1233.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22945,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||thulasiramlal.github.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 22996,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tiktok-jp.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23037,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tiktok-uk.shop",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23079,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tiktokbtc.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23120,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tiktokjp.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23160,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tiktoksj.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23200,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tkj1mutuharjo.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23245,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tksc868.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23284,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tkshopax01.cc",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23325,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tkshopdd01.icu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23367,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||token-portals.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23418,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tophit.ee",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23455,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||trezorwqallet.azurewebsites.net",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23514,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||trezzoerwallet.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23567,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tshbml1gzdwpanvsdvo.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23624,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tttttggggggggg.square.site",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23678,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||tudo.habbig.com.br",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23724,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||u.infotrackccv.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23770,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||u.infotrackfvx.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23816,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||u.infotrackhfy.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23862,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||u.infotracktqj.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23908,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||u.infotrackvty.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 23954,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||unitek-products.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24001,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||up317gn.surge.sh",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24045,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||uphudslogin.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24095,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||urlz.fr/ssqm",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24135,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||urlz.fr/ssqu",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24175,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||usnz.xbugqitq.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24220,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||usry.dzmlmso.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24264,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||ustb.wzoqaoyu.top",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24309,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||validefycreateprompt.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24367,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||verify-booking.info",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24414,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||vision-ariosacademy.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24465,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||vjd.byd.mybluehost.me",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24514,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||vvipxwhatsappxs3x.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24569,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||vzc.ogq930799f.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24615,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||walletmitsmask.gitbook.io",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24668,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||web3dappconnects.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24722,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webmail-105114.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24779,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webmailorangeeportail.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24839,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webmailorangeportaiil.weebly.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24899,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webtelegram.oauthtx3zf.ru",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 24952,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webwrapnode.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25001,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||wetransfer-scp.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25047,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||whantsapp-twn.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25092,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||whatsappxmeetingxgirlsx.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25153,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||wholesaler-ssr.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25199,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||winter-rice-f6fe.myatminmyo14196.workers.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25271,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||wstfrghrpro-f97c7a.ingress-bonde.ewp.live",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25340,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||wwwb394.cc",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25378,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||xclusives-skin.kraftonevent.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25437,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||yahoo-108616-105899.weeblysite.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25499,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||yarasobabosiki.wpenginepowered.com",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25561,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||yln.atn.mybluehost.me",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25610,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||zibuhixuhohu.life",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25655,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||zktrustcloudfaretech.pages.dev",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	},
+	{
+		"id": 25713,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||zml.xew152751o.vip",
+			"resourceTypes": [
+				"main_frame",
+				"sub_frame",
+				"stylesheet",
+				"script",
+				"image",
+				"font",
+				"object",
+				"xmlhttprequest",
+				"ping",
+				"media",
+				"websocket",
+				"other"
+			]
+		},
+		"priority": 55
+	}
+]

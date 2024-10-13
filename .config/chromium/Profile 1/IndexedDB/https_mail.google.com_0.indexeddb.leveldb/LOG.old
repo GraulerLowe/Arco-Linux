@@ -1,0 +1,6 @@
+2024/10/08-22:49:22.493 41b Reusing MANIFEST /home/grauler/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/08-22:49:22.494 41b Recovering log #10
+2024/10/08-22:49:22.494 41b Reusing old log /home/grauler/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000010.log 
+2024/10/08-22:50:10.280 41c Level-0 table #15: started
+2024/10/08-22:50:10.775 41c Level-0 table #15: 2948669 bytes OK
+2024/10/08-22:50:10.967 41c Delete type=0 #10

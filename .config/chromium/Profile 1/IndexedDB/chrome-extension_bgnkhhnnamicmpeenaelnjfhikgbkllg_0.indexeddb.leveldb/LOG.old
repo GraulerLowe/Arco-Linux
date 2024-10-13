@@ -1,0 +1,14 @@
+2024/10/12-17:55:30.968 e1f Reusing MANIFEST /home/grauler/.config/chromium/Profile 1/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/12-17:55:30.969 e1f Recovering log #1047
+2024/10/12-17:55:31.015 e1f Reusing old log /home/grauler/.config/chromium/Profile 1/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/001047.log 
+2024/10/12-17:55:31.015 e1f Delete type=2 #1045
+2024/10/12-17:55:31.318 e2d Level-0 table #1052: started
+2024/10/12-17:55:31.362 e2d Level-0 table #1052: 77629 bytes OK
+2024/10/12-17:55:31.396 e2d Delete type=0 #1047
+2024/10/12-17:55:31.396 e1f Manual compaction at level-0 from ' \x06\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x07\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x06\x01\x00\x00\x05' @ 13701 : 1
+2024/10/12-17:55:31.396 e1f Compacting 1@0 + 1@1 files
+2024/10/12-17:55:31.419 e1f Generated table #1053@0: 89 keys, 40930 bytes
+2024/10/12-17:55:31.419 e1f Compacted 1@0 + 1@1 files => 40930 bytes
+2024/10/12-17:55:31.452 e1f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/12-17:55:31.453 e1f Delete type=2 #1052
+2024/10/12-17:55:31.453 e1f Manual compaction at level-0 from ' \x06\x01\x00\x00\x05' @ 13701 : 1 .. ' \x07\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

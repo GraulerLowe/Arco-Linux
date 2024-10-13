@@ -1,0 +1,17 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Descargas/moon_000.jpeg
+File2[$e]=$HOME/Imágenes/lucy.jpg
+File3[$e]=$HOME/Imágenes/ArcoLinux_2024-08-29_13-20-49.png
+Name1[$e]=moon_000.jpeg
+Name2[$e]=lucy.jpg
+Name3[$e]=ArcoLinux_2024-08-29_13-20-49.png
+
+[SideBar]
+InformationSplitterSizes=236,231

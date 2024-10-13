@@ -1,0 +1,7 @@
+2024/10/08-16:13:45.934 494 Reusing MANIFEST /home/grauler/.config/chromium/Profile 1/WebStorage/20/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/08-16:13:45.934 494 Recovering log #3
+2024/10/08-16:13:45.963 494 Reusing old log /home/grauler/.config/chromium/Profile 1/WebStorage/20/IndexedDB/indexeddb.leveldb/000003.log 
+2024/10/08-16:13:46.558 493 Level-0 table #5: started
+2024/10/08-16:13:46.684 493 Level-0 table #5: 11612 bytes OK
+2024/10/08-16:13:47.108 493 Delete type=0 #3
+2024/10/08-16:13:47.109 493 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

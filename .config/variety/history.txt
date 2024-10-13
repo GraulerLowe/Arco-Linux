@@ -1,0 +1,6 @@
+1
+/home/grauler/Imágenes/wp.jpg
+/home/grauler/Imágenes/wp.jpg
+/home/grauler/Imágenes/wallpaper.jpg
+/home/grauler/Imágenes/fondo/your.png
+/usr/share/backgrounds/archlinux-login-backgrounds/att-05.jpg

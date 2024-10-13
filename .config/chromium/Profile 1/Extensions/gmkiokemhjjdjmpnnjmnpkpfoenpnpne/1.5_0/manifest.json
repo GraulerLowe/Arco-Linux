@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Lofi Girl"
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "content_scripts": [ {
+      "css": [ "youtube/youtube.css" ],
+      "js": [ "youtube/youtube.js" ],
+      "matches": [ "https://www.youtube.com/watch?v=wZ0edJjBXvA", "https://www.youtube.com/watch?v=wZ0edJjBXvA&*", "https://www.youtube.com/watch?v=jfKfPfyJRdk", "https://www.youtube.com/watch?v=jfKfPfyJRdk&*", "https://www.youtube.com/watch?v=rUxyKA_-grg", "https://www.youtube.com/watch?v=rUxyKA_-grg&*", "https://www.youtube.com/watch?v=4xDzrJKXOOY", "https://www.youtube.com/watch?v=4xDzrJKXOOY&*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Study, Chill, Sleep and Repeat…",
+   "icons": {
+      "128": "icons/s128.png",
+      "16": "icons/s16.png",
+      "32": "icons/s32.png",
+      "48": "icons/s48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtDKEDt8AKiZx5QyWxefOd28975E0pFaKQnAJANY9HY5Vcg+et4XtXzta9XhlMQa8JCKZLdmfbOHtpAac4HBbWQ6tALDCRqnF+g07jLAWoCAl9W8xzthpnivYkXKvFIoXi8ysYo5R+Sh/zLZFlPLW+ibhs4wpekAOyIrgupyGu7Y+jNuS17mFbdi3aTF9Mv79Oje4IGToWvzmuOxZpBmjMFnMkWKqK9YoTLhTkyx8ZpLKZVaXnygnvlqU4xCWXnROH1DxG8gaD5qVAG36Y1FsWMzuq+zrLREmkqCvMkbl37UauHgxIYDL1fZgV/tEK63P7571cHLrwiGjM6ujb5TBQIDAQAB",
+   "manifest_version": 3,
+   "name": "Lofi Girl",
+   "permissions": [ "offscreen", "storage", "identity", "identity.email", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5",
+   "version_name": "1.5 - (11/01/2024)"
+}

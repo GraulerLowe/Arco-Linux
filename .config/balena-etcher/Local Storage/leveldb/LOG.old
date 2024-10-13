@@ -1,0 +1,6 @@
+2024/10/12-12:04:25.442 53c Reusing MANIFEST /home/grauler/.config/balena-etcher/Local Storage/leveldb/MANIFEST-000001
+2024/10/12-12:04:25.460 53c Recovering log #3
+2024/10/12-12:04:25.581 53c Reusing old log /home/grauler/.config/balena-etcher/Local Storage/leveldb/000003.log 
+2024/10/12-12:05:27.567 539 Level-0 table #5: started
+2024/10/12-12:05:27.595 539 Level-0 table #5: 32293 bytes OK
+2024/10/12-12:05:27.629 539 Delete type=0 #3
