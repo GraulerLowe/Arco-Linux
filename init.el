@@ -9,7 +9,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(nyan-mode i3bar i3wm-config-mode sqlite3 go-mode go-impl go-eldoc all-the-icons-ibuffer all-the-icons-gnus all-the-icons-dired yasnippet flycheck magit projectile ace-window subatomic-theme standard-themes spacegray-theme haskell-mode git-commit doom-themes doom company-ebdb company-box all-the-icons-nerd-fonts all-the-icons-ivy-rich all-the-icons-ivy all-the-icons-completion all afternoon-theme)))
+   '(python-django python lsp-ivy nyan-mode i3bar i3wm-config-mode sqlite3 go-mode go-impl go-eldoc all-the-icons-ibuffer all-the-icons-gnus all-the-icons-dired yasnippet flycheck magit projectile ace-window subatomic-theme standard-themes spacegray-theme haskell-mode git-commit doom-themes doom company-ebdb company-box all-the-icons-nerd-fonts all-the-icons-ivy-rich all-the-icons-ivy all-the-icons-completion all afternoon-theme)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -60,9 +60,10 @@
 (setq ring-bell-function 'ignore)
 
 ;; Ajustar el esquema de colores
+;;(load-theme 'dracula t)
 (load-theme 'catppuccin :no-confirm) 
 (setq doom-theme 'catppuccin)
-(setq catppuccin-flavor 'macchiato) ;; or 'latte, 'macchiato, or 'mocha
+(setq catppuccin-flavor 'mocha) ;; or 'latte, 'macchiato, or 'mocha
 (catppuccin-reload)
 ;; Cambiar el color de fondo
 (set-face-background 'default "#011220")
