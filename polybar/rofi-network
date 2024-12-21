@@ -1,6 +1,6 @@
 #!/bin/bash
-
-networks=$(nmcli device wifi list | awk 'NR>1 {print $2 " - " $3 " - " $8}')
+echo "Script ejecutado" >> /tmp/polybar.log
+networks=$(nmcli device wifi list | awk 'NR>1 {print $2 " - "}')
 selected=$(echo "$networks" | rofi -dmenu -i -p "Select Network")
 
 if [ -n "$selected" ]; then
