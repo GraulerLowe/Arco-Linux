@@ -1,7 +1,6 @@
 const totalSteps = 5;
 const mensajes = [
-  "Este examen fue abducido por alienígenas aburridos de tanta perfección.",
-  "Los aliens te han regalado resiliencia épica.",
+  "El alien te han regalado resiliencia épica.",
   "¡Felicidades! Has desbloqueado el nivel de paz interior."
 ];
 
@@ -28,9 +27,8 @@ document.getElementById('btn-4').addEventListener('click', () => {
   showStep(5);
 
     // Muestra la imagen de la nota
-  const img = document.getElementById('nota-img');
-  img.classList.remove('hidden');
-  
+  const notaDiv = document.querySelector('#step-5 .nota');
+  notaDiv.classList.add('visible');
   
   // Muestra el botón de descarga
   const downloadBtn = document.getElementById('descargar-nota');
