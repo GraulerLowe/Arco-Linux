@@ -27,8 +27,12 @@ document.getElementById('btn-4').addEventListener('click', () => {
   // Revela la paso 5
   showStep(5);
 
-  // Muestra la imagen de la nota
+    // Muestra la imagen de la nota
   const img = document.getElementById('nota-img');
   img.classList.remove('hidden');
-  img.classList.add('visible');
+  
+  
+  // Muestra el botón de descarga
+  const downloadBtn = document.getElementById('descargar-nota');
+  downloadBtn.classList.remove('hidden');
 });
