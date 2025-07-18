@@ -6,8 +6,30 @@ const mensajes = [
 
 // Muestra/oculta pasos
 function showStep(n) {
-  document.getElementById(`step-${n - 1}`)?.classList.add('hidden');
-  document.getElementById(`step-${n}`)?.classList.remove('hidden');
+  const prevStep = document.querySelector('.step:not(.hidden)');
+  const nextStep = document.getElementById(`step-${n}`);
+
+  if (prevStep && prevStep !== nextStep) {
+    prevStep.classList.add('fade-out');
+    setTimeout(() => {
+      prevStep.classList.add('hidden');
+      prevStep.classList.remove('fade-out');
+
+      // Ahora mostrar el siguiente paso
+      nextStep.classList.remove('hidden');
+      nextStep.classList.add('fade-in');
+      setTimeout(() => {
+        nextStep.classList.remove('fade-in');
+      }, 500); // Duración igual a la animación
+    }, 500); // Duración igual a la transición CSS
+  } else if (nextStep) {
+    // Si es el primer paso o no hay anterior
+    nextStep.classList.remove('hidden');
+    nextStep.classList.add('fade-in');
+    setTimeout(() => {
+      nextStep.classList.remove('fade-in');
+    }, 500);
+  }
 }
 
 // Botones pasos 1–3
@@ -34,3 +56,4 @@ document.getElementById('btn-4').addEventListener('click', () => {
   const downloadBtn = document.getElementById('descargar-nota');
   downloadBtn.classList.remove('hidden');
 });
+
